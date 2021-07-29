@@ -14,7 +14,7 @@ HolbertonBnB is a complete web application, integrating database storage, a back
 ## Installation
 To use our AirBnB clone console you need to:
 
-Clone This Repository:git@github.com:ramii02/AirBnB_clone.git
+Clone This : https://github.com/ramii02/AirBnB_clone
 
 Change the directory to AirBnB_clone:
 
@@ -34,6 +34,7 @@ Use hbnb in non-interactive mode too by: echo "command" | ./console.py
 |  all  | command that displays all the HBNB instances
 | destroy	  |  command used to delete all attributes of class_name.object_id
 ## HBNB Console files :
+
 #### files/ directories |  description
 | tests	 |  directory containing all the unittest done for all files
 | base_model.py	  |  BaseModel superclass
